@@ -1,0 +1,29 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Pleasure",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Quis do irure ut aute magna ut anim amet mollit magna incididunt. Nisi in consequat tempor pariatur amet adipisicing officia ut fugiat excepteur aliquip pariatur irure duis. Dolor culpa tempor incididunt commodo commodo.",
+        "spans": []
+      }
+    ]
+  }
+}
